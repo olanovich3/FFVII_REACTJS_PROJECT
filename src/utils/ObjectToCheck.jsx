@@ -1,0 +1,30 @@
+export const passwordParams = {
+  spaces: 0,
+  lowerCase: 1,
+  upperCase: 1,
+  number: 1,
+  symbol: 1,
+};
+export const userParams = {
+  spaces: 0,
+  lowerCase: -1,
+  upperCase: -1,
+  number: -1,
+  symbol: 0,
+  forbidden: [
+    'Cabron',
+    'puta',
+    'Mamona',
+    'gilipollas',
+    'comepollas',
+    'chupapollas',
+    'comeculos',
+    'maricon',
+    'chupanabos',
+    'comermierda',
+    'carapolla',
+    'follaculos',
+    'follaviejas',
+    'caraculo',
+  ],
+};

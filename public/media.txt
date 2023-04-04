@@ -1,0 +1,17 @@
+video intro-> 'https://res.cloudinary.com/di0zpa5yw/video/upload/v1677165627/ff7/SnapSave.io-FINAL_FANTASY_VII___The_Famous_Opening___HD_online-video-cutter.com_smtht6.mp4'
+one winged angel song -> 'https://res.cloudinary.com/di0zpa5yw/video/upload/v1677166130/ff7/Final_Fantasy_VII_OST_-_One-Winged_Angel_pd3zht.mp4'
+
+Ig icon --> 'https://res.cloudinary.com/dnkacmdmh/image/upload/v1677165419/insta_tecmmc.webp',
+Tw icon -->'https://res.cloudinary.com/dnkacmdmh/image/upload/v1677165423/twi_kx2e6n.webp',
+Youtube icon --> 'https://res.cloudinary.com/dnkacmdmh/image/upload/v1677165425/you_o61n62.webp',
+fb icon --> 'https://res.cloudinary.com/dnkacmdmh/image/upload/v1677165421/face_spq3ck.webp',
+
+img moon -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677166232/final-fantasy-final-fantasy-vii-advent-children-battle-cloud-wallpaper-preview_wvanqg.jpg`
+img sword -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677166232/de4nhhn-2e6aa750-cab6-4a2d-9155-2147aaa877a8_ow4ui8.jpg`
+img logo -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677165723/cropped-FFVII_logo_w4hdry.png`
+img squarc -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677165711/se_logo-3x-GCifjuXox_wlxvuy.webp`
+img character1 -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677166274/9JM2umQBwkZPwTXA3vvWdf_myjjft.jpg`
+img character2 -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677166274/show_dkoitj.jpg`
+img character3 -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677166274/f8fad369a92a53453e91fc205f9d63c6_jvguv0.jpg`
+img character4 -> `https://res.cloudinary.com/dysog0ybg/image/upload/v1677166204/1366_2000_exzuxa.jpg`
+img sword background -> 'https://res.cloudinary.com/dvdoak5et/image/upload/v1677431074/Bestiary/ff-sword-hero_1_tnzvmn.jpg'

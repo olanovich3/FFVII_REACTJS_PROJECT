@@ -1,0 +1,32 @@
+import styled from 'styled-components';
+
+const EnemyModalStyled = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: ${({ variant }) => (variant ? variant : 'yellow')};
+  color: ${({ color }) => (color === 'white' ? 'white' : 'black')};
+  height: ${({ height }) => height};
+  width: ${({ width }) => width};
+  padding: ${({ padding }) => padding};
+  margin: ${({ margin }) => margin};
+  border: 2px solid black;
+  border-radius: 15%;
+`;
+
+const EnemyModal = ({ variant, color, height, width, padding, margin, children }) => {
+  return (
+    <EnemyModalStyled
+      variant={variant}
+      color={color}
+      height={height}
+      width={width}
+      padding={padding}
+      margin={margin}
+    >
+      {children}
+    </EnemyModalStyled>
+  );
+};
+
+export default EnemyModal;
